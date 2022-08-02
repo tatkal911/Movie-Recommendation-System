@@ -1,6 +1,6 @@
 # Content-Based-Movie-Recommender-System-with-sentiment-analysis
 
-#Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
+Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
 
 
 ## Similarity Score : 
